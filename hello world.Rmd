@@ -1,6 +1,6 @@
 ---
 title: "helloWorld"
-author: "ashmika"
+author: "Abhiram"
 day: "Today"
 output: pdf_document
 ---
